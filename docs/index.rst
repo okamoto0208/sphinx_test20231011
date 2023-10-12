@@ -20,7 +20,7 @@ Welcome to test_document's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: test3だけ
+   :caption: idogaya
    :numbered:
 
    /source/test/test3
