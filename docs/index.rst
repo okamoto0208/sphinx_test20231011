@@ -16,7 +16,7 @@ Welcome to test_document's documentation!
    :numbered:
 
    /source/test/test1
-   /test/test2
+   /source/test/test2
 
 .. toctree::
    :maxdepth: 2
