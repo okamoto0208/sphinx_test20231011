@@ -15,7 +15,7 @@ Welcome to test_document's documentation!
    :caption: OverView
    :numbered:
 
-   /test/test1
+   /source/test/test1
    /test/test2
 
 .. toctree::
@@ -23,7 +23,7 @@ Welcome to test_document's documentation!
    :caption: test3だけ
    :numbered:
 
-   /test/test3
+   /source/test/test3
 
 
 Indices and tables
